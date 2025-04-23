@@ -13,7 +13,7 @@
   {
     "name": "Jogo da Cobrinha",
     "desc": "O objetivo é controlar uma cobra que cresce à medida que come comida - HTML, CSS, JavaScript",
-    "image": "cobra",
+    "image": "Cobra",
     "category": "mern",
     "links": {
       "view": "https://ribeirobrunodev.github.io/jogo-da-cobrinha/",
@@ -23,7 +23,7 @@
   {
     "name": "Balle Bot",
     "desc": " Ferramentas para auxiliar na moderação de mensagens e usuários - HTML, CSS, JavaScript",
-    "image": "balle",
+    "image": "Balle",
     "category": "mern",
     "links": {
       "view": "https://ribeirobrunodev.github.io/Landig-page/",
