@@ -8,9 +8,10 @@
   text-decoration: none;
   outline: none;
   border: none;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   transition: all 0.2s linear;
 }
+
 html {
   font-size: 62.5%;
   overflow-x: hidden;
@@ -935,7 +936,6 @@ header .navbar ul li a:hover {
 .contact {
   background: #e5ecfb;
   min-height: 60vh;
-  
 }
 .contact .container {
   max-width: 1050px;
@@ -968,7 +968,6 @@ form .form-group {
   display: flex;
   flex-direction: column;
   justify-content: center;
-
 }
 .form-group .field {
   height: 50px;
@@ -997,7 +996,7 @@ form .message textarea {
   border-radius: 5px;
   border: 1px solid rgb(51, 51, 51);
   background: #e5ecfb;
-  text-transform: none
+  text-transform: none;
 }
 .field input::placeholder,
 .message textarea::placeholder {
@@ -1016,13 +1015,11 @@ form .message {
   position: relative;
   margin: 1rem;
   width: 100%;
-
 }
 form .message i {
   top: 25px;
   font-size: 20px;
   left: 15px;
-  
 }
 form .message textarea {
   min-height: 130px;
